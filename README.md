@@ -34,9 +34,8 @@
 🏞️ Exploring Untamed Landscapes and Adventure 
 
 ### 🌐 Join the Cinematic Saga
-
 🐦 [Twitter](https://twitter.com)
-📸 [Instagram]https://instagram.com/eamon_shane?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D
+📸 [@your_insta_handle](https://www.instagram.com/eamon_shane) 
 🎥 [YouTube]("Under the Director's Vision")
 🌐 [Portfolio]("Cinematic Magic in Progress.")
 
