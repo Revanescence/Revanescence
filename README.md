@@ -35,10 +35,10 @@
 
 ### 🌐 Join the Cinematic Saga
 
-🌐 [Portfolio]("Cinematic Magic in Progress.")
 🐦 [Twitter](https://twitter.com)
 📸 [Instagram]https://instagram.com/eamon_shane?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D
 🎥 [YouTube]("Under the Director's Vision")
+🌐 [Portfolio]("Cinematic Magic in Progress.")
 
 <!---
 Revanescence/Revanescence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
