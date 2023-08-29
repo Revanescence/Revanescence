@@ -35,7 +35,7 @@
 
 ### 🌐 Join the Cinematic Saga
 🐦 [Twitter](https://twitter.com)
-📸 [@your_insta_handle](https://www.instagram.com/eamon_shane) 
+📸 [insta_handle](https://www.instagram.com/eamon_shane) 
 🎥 [YouTube]("Under the Director's Vision")
 🌐 [Portfolio]("Cinematic Magic in Progress.")
 
